@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\BidaManagementApp\BidaManagementApp\bin\Debug\BidaManagementApp.exe.config
+C:\Users\ASUS\source\repos\BidaManagementApp\BidaManagementApp\bin\Debug\BidaManagementApp.exe
+C:\Users\ASUS\source\repos\BidaManagementApp\BidaManagementApp\bin\Debug\BidaManagementApp.pdb
+C:\Users\ASUS\source\repos\BidaManagementApp\BidaManagementApp\obj\Debug\BidaManagementApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BidaManagementApp\BidaManagementApp\obj\Debug\BidaManagementApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\BidaManagementApp\BidaManagementApp\obj\Debug\BidaManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BidaManagementApp\BidaManagementApp\obj\Debug\BidaManagementApp.exe
+C:\Users\ASUS\source\repos\BidaManagementApp\BidaManagementApp\obj\Debug\BidaManagementApp.pdb
