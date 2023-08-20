@@ -1,0 +1,48 @@
+C:\Users\ASUS\source\repos\BidaManagementApp\BidaManagementApp\bin\Debug\BidaManagementApp.exe.config
+C:\Users\ASUS\source\repos\BidaManagementApp\BidaManagementApp\bin\Debug\BidaManagementApp.exe
+C:\Users\ASUS\source\repos\BidaManagementApp\BidaManagementApp\bin\Debug\BidaManagementApp.pdb
+C:\Users\ASUS\source\repos\BidaManagementApp\BidaManagementApp\obj\Debug\BidaManagementApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BidaManagementApp\BidaManagementApp\obj\Debug\BidaManagementApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\BidaManagementApp\BidaManagementApp\obj\Debug\BidaManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BidaManagementApp\BidaManagementApp\obj\Debug\BidaManagementApp.exe
+C:\Users\ASUS\source\repos\BidaManagementApp\BidaManagementApp\obj\Debug\BidaManagementApp.pdb
+C:\Users\ASUS\Source\Repos\bibongbenh04\ProgrammingOnWindows\BidaManagementApp\obj\Debug\BidaManagementApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\Source\Repos\bibongbenh04\ProgrammingOnWindows\BidaManagementApp\obj\Debug\BidaManagementApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Source\Repos\bibongbenh04\ProgrammingOnWindows\BidaManagementApp\obj\Debug\BidaManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Source\Repos\bibongbenh04\ProgrammingOnWindows\BidaManagementApp\obj\Debug\BidaManagementApp.exe
+C:\Users\ASUS\Source\Repos\bibongbenh04\ProgrammingOnWindows\BidaManagementApp\obj\Debug\BidaManagementApp.pdb
+C:\Users\ASUS\Source\Repos\bibongbenh04\ProgrammingOnWindows\BidaManagementApp\bin\Debug\BidaManagementApp.exe.config
+C:\Users\ASUS\Source\Repos\bibongbenh04\ProgrammingOnWindows\BidaManagementApp\bin\Debug\BidaManagementApp.exe
+C:\Users\ASUS\Source\Repos\bibongbenh04\ProgrammingOnWindows\BidaManagementApp\bin\Debug\BidaManagementApp.pdb
+C:\Users\ASUS\Source\Repos\bibongbenh04\ProgrammingOnWindows\BidaManagementApp\obj\Debug\BidaManagementApp.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\bibongbenh04\ProgrammingOnWindows\BidaManagementApp\obj\Debug\BidaManagementApp.fTableManager.resources
+C:\Users\ASUS\source\repos\bibongbenh04\ProgrammingOnWindows\BidaManagementApp\obj\Debug\BidaManagementApp.Properties.Resources.resources
+C:\Users\ASUS\source\repos\bibongbenh04\ProgrammingOnWindows\BidaManagementApp\obj\Debug\BidaManagementApp.TatCaHoaDon.resources
+C:\Users\ASUS\source\repos\bibongbenh04\ProgrammingOnWindows\BidaManagementApp\obj\Debug\BidaManagementApp.ThongTinBanBida.resources
+C:\Users\ASUS\Source\Repos\bibongbenh04\ProgrammingOnWindows\BidaManagementApp\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\Source\Repos\bibongbenh04\ProgrammingOnWindows\BidaManagementApp\obj\Debug\BidaManagementApp.Login.fLogin.resources
+C:\Users\ASUS\Source\Repos\bibongbenh04\ProgrammingOnWindows\BidaManagementApp\obj\Debug\BidaManagementApp.csproj.CopyComplete
+C:\Users\ASUS\source\repos\bibongbenh04\ProgrammingOnWindows\BidaManagementApp\obj\Debug\BidaManagementApp.Dashboard.resources
+C:\Users\ASUS\source\repos\bibongbenh04\ProgrammingOnWindows\BidaManagementApp\obj\Debug\BidaManagementApp.All_UserControl.AC_Billiard.resources
+C:\Users\ASUS\source\repos\bibongbenh04\ProgrammingOnWindows\BidaManagementApp\obj\Debug\BidaManagementApp.Login.HelloWord.resources
+C:\Users\tt\OneDrive - Hochiminh City University of Education\Documents\winform\ProgrammingOnWindows\ProgrammingOnWindows - Copy\BidaManagementApp\bin\Debug\BidaManagementApp.exe.config
+C:\Users\tt\OneDrive - Hochiminh City University of Education\Documents\winform\ProgrammingOnWindows\ProgrammingOnWindows - Copy\BidaManagementApp\bin\Debug\BidaManagementApp.exe
+C:\Users\tt\OneDrive - Hochiminh City University of Education\Documents\winform\ProgrammingOnWindows\ProgrammingOnWindows - Copy\BidaManagementApp\bin\Debug\BidaManagementApp.pdb
+C:\Users\tt\OneDrive - Hochiminh City University of Education\Documents\winform\ProgrammingOnWindows\ProgrammingOnWindows - Copy\BidaManagementApp\bin\Debug\Guna.UI2.dll
+C:\Users\tt\OneDrive - Hochiminh City University of Education\Documents\winform\ProgrammingOnWindows\ProgrammingOnWindows - Copy\BidaManagementApp\obj\Debug\BidaManagementApp.csproj.AssemblyReference.cache
+C:\Users\tt\OneDrive - Hochiminh City University of Education\Documents\winform\ProgrammingOnWindows\ProgrammingOnWindows - Copy\BidaManagementApp\obj\Debug\BidaManagementApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\tt\OneDrive - Hochiminh City University of Education\Documents\winform\ProgrammingOnWindows\ProgrammingOnWindows - Copy\BidaManagementApp\obj\Debug\BidaManagementApp.All_UserControl.AC_Billiard.resources
+C:\Users\tt\OneDrive - Hochiminh City University of Education\Documents\winform\ProgrammingOnWindows\ProgrammingOnWindows - Copy\BidaManagementApp\obj\Debug\BidaManagementApp.Dashboard.resources
+C:\Users\tt\OneDrive - Hochiminh City University of Education\Documents\winform\ProgrammingOnWindows\ProgrammingOnWindows - Copy\BidaManagementApp\obj\Debug\BidaManagementApp.fTableManager.resources
+C:\Users\tt\OneDrive - Hochiminh City University of Education\Documents\winform\ProgrammingOnWindows\ProgrammingOnWindows - Copy\BidaManagementApp\obj\Debug\BidaManagementApp.Login.fLogin.resources
+C:\Users\tt\OneDrive - Hochiminh City University of Education\Documents\winform\ProgrammingOnWindows\ProgrammingOnWindows - Copy\BidaManagementApp\obj\Debug\BidaManagementApp.Login.HelloWord.resources
+C:\Users\tt\OneDrive - Hochiminh City University of Education\Documents\winform\ProgrammingOnWindows\ProgrammingOnWindows - Copy\BidaManagementApp\obj\Debug\BidaManagementApp.Properties.Resources.resources
+C:\Users\tt\OneDrive - Hochiminh City University of Education\Documents\winform\ProgrammingOnWindows\ProgrammingOnWindows - Copy\BidaManagementApp\obj\Debug\BidaManagementApp.TatCaHoaDon.resources
+C:\Users\tt\OneDrive - Hochiminh City University of Education\Documents\winform\ProgrammingOnWindows\ProgrammingOnWindows - Copy\BidaManagementApp\obj\Debug\BidaManagementApp.ThongTinBanBida.resources
+C:\Users\tt\OneDrive - Hochiminh City University of Education\Documents\winform\ProgrammingOnWindows\ProgrammingOnWindows - Copy\BidaManagementApp\obj\Debug\BidaManagementApp.csproj.GenerateResource.cache
+C:\Users\tt\OneDrive - Hochiminh City University of Education\Documents\winform\ProgrammingOnWindows\ProgrammingOnWindows - Copy\BidaManagementApp\obj\Debug\BidaManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\tt\OneDrive - Hochiminh City University of Education\Documents\winform\ProgrammingOnWindows\ProgrammingOnWindows - Copy\BidaManagementApp\obj\Debug\BidaManagementApp.csproj.CopyComplete
+C:\Users\tt\OneDrive - Hochiminh City University of Education\Documents\winform\ProgrammingOnWindows\ProgrammingOnWindows - Copy\BidaManagementApp\obj\Debug\BidaManagementApp.exe
+C:\Users\tt\OneDrive - Hochiminh City University of Education\Documents\winform\ProgrammingOnWindows\ProgrammingOnWindows - Copy\BidaManagementApp\obj\Debug\BidaManagementApp.pdb
+C:\Users\tt\OneDrive - Hochiminh City University of Education\Documents\winform\ProgrammingOnWindows\ProgrammingOnWindows - Copy\BidaManagementApp\obj\Debug\BidaManagementApp.updateBidaTable.resources
+C:\Users\tt\OneDrive - Hochiminh City University of Education\Documents\winform\ProgrammingOnWindows\ProgrammingOnWindows - Copy\BidaManagementApp\obj\Debug\BidaManagementApp.updateNhanVien.resources
